@@ -33,6 +33,12 @@ App.use(express.json());
 App.use(express.urlencoded({extended: true}))
 App.use('/api/v1/reservation',reservation)
 
+App.get("/", (req, res, next)=>{return res.status(200).json({
+    success: true,
+    massage: "Hello World",
+    
+})})
+
 dbConnection();
 App.use(errorMiddleware)
 export default App;
