@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { data } from "../restApi.json";
+import { data } from "../restAPi.json";
 import { Link } from "react-scroll";
 import { GiHamburgerMenu } from "react-icons/gi";
 const Navbar = () => {
