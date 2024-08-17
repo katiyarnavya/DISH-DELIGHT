@@ -13,7 +13,7 @@ const Reservation = () => {
     const [time, setTime] = useState("");
     const [phone, setPhone] = useState(0);
     const navigate = useNavigate();
-    const base_url = "http://localhost:4000";
+    // const base_url = "http://localhost:4000";
 
     const handleReservation = async (e) => {
         e.preventDefault();
