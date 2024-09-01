@@ -37,8 +37,6 @@ Challenges and Solutions
 State Management: Used React’s Context API and useReducer for efficient global state management.
 Responsive Design: Employed CSS Grid, Flexbox, and media queries for a mobile-first design.
 Routing and Navigation: Utilized React Router to manage smooth navigation across pages.
-Authentication: Integrated JWT for secure user authentication.
 Technologies Used
 Frontend: React.js, CSS (Grid, Flexbox), React Router
 Backend: Node.js, Express.js, MongoDB
-Authentication: JWT (JSON Web Tokens)
