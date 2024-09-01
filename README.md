@@ -1,7 +1,7 @@
 Dish Delight
 Dish Delight is a full-stack restaurant application designed to provide users with an easy way to browse menus, make table reservations, and track orders in real-time. This project was built using React.js for the frontend and Node.js with Express for the backend, with MongoDB for managing user registration.
 Features
-User Registration: Secure user sign-up and login using JWT authentication.
+User Registration: Secure user Register and login.
 Menu Browsing: Users can view a variety of dishes with descriptions and pricing.
 Table Reservation: Users can reserve a table online before visiting the restaurant.
 Responsive Design: The application is fully responsive and works seamlessly on all devices.
